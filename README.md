@@ -21,7 +21,7 @@ For more information, see the Contiki website:
 ============================
 
 If you have indentation problem during uploading, it means that your python
-version is'nt correct. You must to use python 2. You can change your python
+version isn't correct. You must use python 2. You can change your python
 version with this command:
 
 Delete current symbolic link of python<br>
